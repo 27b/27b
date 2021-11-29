@@ -26,9 +26,9 @@ AWS, Pillow, Celery, Redis
 ✉️ [EMail](https://github.com/27b#Comming-Soon)
 
 # 💡 My projects
-- Open Ecommerce: CMS/Ecommerce developed with Flask.
-- My Blog: In Development
-- 100 Days of code: in Private
+- **Open Ecommerce:** CMS/Ecommerce developed with Flask.
+- **My Blog:** In Development
+- **100 Days of code:** in Private
 
 
 <!--
