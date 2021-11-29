@@ -5,14 +5,6 @@ I use daily **Python**, **Flask** and **Django** to create projects, very soon I
 My hobbies are programming, reading, listen to podcast and learn English.
 **If You can ask, just ask me.**
 
-**Languages:**
-Python, JavaScript, SQL, HTML, CSS
-
-**Frameworks:**
-Flask, Django
-
-**Tools:**
-Linux, Vim, Git, SSH, Docker
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65">
@@ -27,9 +19,6 @@ Linux, Vim, Git, SSH, Docker
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgres" width="65" height="65">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65">
 </p>
-
-**Other:**
-AWS, Pillow, Celery, Redis
 
 # 📫 How to reach me
 😸 [LinkedIn](https://github.com/27b#Comming-Soon) |
