@@ -1,9 +1,9 @@
 # 👋 Introduction
 Hello, I'm **Orión**. I am a Back-End developer from Buenos Aires, Argentina. 
 I'm currently working on my protfolio as a Back-End engineer.
-I use daily Python,Flask and Django to create projects, very soon I will be uploading them.
+I use daily **Python**, **Flask** and **Django** to create projects, very soon I will be uploading them.
 My hobbies are programming, reading, listen to podcast and learn English.
-If You can ask, just ask me.
+**If You can ask, just ask me.**
 
 **Languages:**
 Python, JavaScript, SQL, HTML, CSS
