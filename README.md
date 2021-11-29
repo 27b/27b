@@ -6,14 +6,10 @@ I use daily **Python**, **Flask** and **Django** to create projects, very soon I
 My hobbies are programming, reading, listen to podcast and learn English.
 **If You can ask, just ask me.**
 
-<br>
-
 # 📫 How to reach me
 😸 [LinkedIn](https://github.com/27b#Comming-Soon) |
 🌐 [Blog](https://github.com/27b#Comming-Soon) |
 ✉️ [EMail](https://github.com/27b#Comming-Soon)
-
-<br>
 
 # 💡 My projects
 - **Open Ecommerce:** CMS/Ecommerce developed with Flask.
