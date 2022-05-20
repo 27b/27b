@@ -14,6 +14,7 @@ My hobbies are programming, reading, listen to podcast and learn English.
 - **Ecommerce** with Flask.
 - **My Site** with Django.
 - **Chat App** with Flask and SocketIO.
+- **Stock Control App** with Django.
 - **Game with sockets** with Flask and SocketIO.
 - **Newsletter Scraper** with Flask and Scrapy.
 - **100 days of code** with Python
