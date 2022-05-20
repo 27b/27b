@@ -11,10 +11,15 @@ My hobbies are programming, reading, listen to podcast and learn English.
 🌐 [Blog](https://github.com/27b#Comming-Soon) |
 ✉️ [EMail](https://github.com/27b#Comming-Soon)
 
-# 💡 My projects
-- **Ecommerce:** with Flask.
-- **My Blog** with Django.
-- **Chat app** with Flask and SocketIO.
-- **Game with sockets** with Flask and SocketIO.
-- **Newsletter Scraper** with Flask and Scrapy. 
-- **100 Days of code** with Python.
+<h1>💡 My projects</h1>
+<p>
+  <ul align="left" width="200px">
+    <li><b>Ecommerce</b> with Flask.</li>
+    <li><b>My Site</b> with Django.</li>
+    <li><b>Chat App</b> with Flask and SocketIO.</li>
+    <li><b>Game with sockets</b> with Flask and SocketIO.</li>
+    <li><b>Newsletter Scraper</b> with Flask and Scrapy.</li>
+    <li><b>100 days of code</b> with Python</li>
+  </ul>
+  <img align="right" width="300px" height="200px" src="https://y.yarn.co/0fd12d7e-8cad-486f-bb78-fb1624472437_text.gif">
+</p>
