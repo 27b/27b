@@ -18,6 +18,5 @@ My hobbies are programming, reading, listen to podcast and learn English.
 - **Game with sockets** with Flask and SocketIO.
 - **Newsletter Scraper** with Flask and Scrapy.
 - **100 days of code** with Python
-<a target="_blank" href="https://www.youtube.com/watch?v=xFnfABbAoS4">
-  <img width=200 src="https://y.yarn.co/0fd12d7e-8cad-486f-bb78-fb1624472437_text.gif">
-</a>
+
+<img width=200 src="https://y.yarn.co/0fd12d7e-8cad-486f-bb78-fb1624472437_text.gif">
