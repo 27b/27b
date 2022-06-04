@@ -11,12 +11,12 @@ My hobbies are programming, reading, listen to podcast and learn English.
 ✉️ [EMail](https://github.com/27b#Comming-Soon)
 
 # 💡 My repositories
-- **Ecommerce** with Flask.
-- **My Site** with Django.
-- **Chat App** with Flask and SocketIO.
-- **Inventory Management App** with Django Rest Framework and React.
-- **Game with sockets** with Flask and SocketIO.
-- **Newsletter Scraper** with Flask and Scrapy.
-- **100 days of code** with Python
+- **Ecommerce:** Flask.
+- **My Site:** Django.
+- **Chat App:** Flask and SocketIO.
+- **Inventory Management:** Django Rest Framework and React.
+- **Game with sockets:** Flask and SocketIO.
+- **Newsletter Scraper:** Flask and Scrapy.
+- **100 days of code:** Python
 
 <img width=200 src="https://y.yarn.co/0fd12d7e-8cad-486f-bb78-fb1624472437_text.gif">
