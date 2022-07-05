@@ -15,7 +15,7 @@ You can contact me at
 ### My repositories
 - **Ecommerce:** Flask.
 - **My Site:** Django.
-- **Chat App:** Flask and SocketIO.
+- **Chat App:** Express, Passport, React, Bootstrap, and SocketIO.
 - **Inventory Management:** Django Rest Framework and React.
 - **Game with sockets:** Flask and SocketIO.
 - **Newsletter Scraper:** Flask and Scrapy.
